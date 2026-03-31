@@ -1,8 +1,8 @@
 # Vincent Rotich
 
-**R&D Engineer** · **PhD Candidate, Agricultural Sciences — Kyoto University**
+**R&D Engineer** · **PhD Candidate, Agricultural Sciences, Kyoto University**
 
-I build computer vision and deep learning systems for agricultural quality assessment — from model training to TensorRT-optimized deployment across 500+ production facilities in Japan.
+I build computer vision and deep learning systems for agricultural quality assessment, from model training to TensorRT-optimized deployment across 500+ production facilities in Japan.
 
 My research focuses on non-destructive postharvest quality evaluation, combining UV-fluorescence imaging and spectroscopic methods with machine learning to monitor produce quality in real time.
 
